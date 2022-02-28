@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the leavying of horse and foot, to be put out by the shires and burghs. And the list of the Colonells, with their severall numbers of horse and foot.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92494</idno>
+            <idno type="STC">Wing S1108</idno>
+            <idno type="STC">Thomason E443_44</idno>
+            <idno type="STC">ESTC R204753</idno>
+            <idno type="EEBO-CITATION">99864216</idno>
+            <idno type="PROQUEST">99864216</idno>
+            <idno type="VID">116439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116439)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the leavying of horse and foot, to be put out by the shires and burghs. And the list of the Colonells, with their severall numbers of horse and foot.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ;</publisher>
+                  <publisher>for Joseph Hunscot,</publisher>
+                  <pubPlace>Imprinted at Edenburgh :</pubPlace>
+                  <pubPlace>and re-printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated on p.3: Edinburgh 4 May, 1648.</note>
+                  <note>Annotation on Thomason copy: "May. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Militia --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116439:1" rendition="simple:additions"/>
+            <p>AN ACT FOR The Leavying of HORSE and FOOT, TO Be put out by the SHIRES and BURGHS.</p>
+            <p>AND The Liſt of the Colonells, with their ſeverall Numbers of HORSE and FOOT.</p>
+            <p>Imprinted at <hi>Edenburgh,</hi> by <hi>Evan Tyler,</hi> and re-printed at <hi>London</hi> for <hi>Joſeph Hunſcot.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116439:2"/>
+            <pb n="3" facs="tcp:116439:2"/>
+            <head>
+               <hi>Edinburgh</hi> 4 <hi>May,</hi> 1648.</head>
+            <div type="proclamation">
+               <p>
+                  <seg rend="decorInit">F</seg>Or as much as the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment conſidering the great and imminent dangers to Religion, the Covenant, his Majeſties Perſon and authority, and peace of his King<g ref="char:EOLhyphen"/>domes, have thought fit, and accor<g ref="char:EOLhyphen"/>dingly given order, That this King<g ref="char:EOLhyphen"/>dom be put in a poſture of Warre, and that the Colonells and Committees of Warre in the ſeverall Shires be carefull in liſting and exerci<g ref="char:EOLhyphen"/>ſing the able ſenſible perſons within their bounds, and providing them with Armes, that they may be in readineſſe to ſend forth ſuch number of horſe and foot as the Parliament or their Committees ſhall call for. And now finding that the Towne of <hi>Berwick</hi> is ſeized on, and that the dangers are nearer to us then formerly, whether from Sectaries or Malignants, and that it is our duty to make uſe of the power and ſtrength of the Kingdom for its preſervation and ſafe<g ref="char:EOLhyphen"/>ty, and for preventing thoſe evills wherewith we are threatned, have thought it therefore fitting to re<g ref="char:EOLhyphen"/>quire the ſeverall Colonells and Committees of Warre
+<pb n="4" facs="tcp:116439:3"/>of the Shires on this ſide <hi>Tay,</hi> to meet upon the ninth of this inſtant, and theſe on this ſide of <hi>Spey</hi> upon the twelfth, &amp; thoſe upon the North ſide thereof upon the ſixteenth day of the ſame moneth, and at their ſaid meetings, to take preſent courſe for liſting &amp; inrolling the particular numbers of men, horſe &amp; foot, according to the liſt hereunto ſubjoyned. And that they appoint &amp; nominate under officers to the foot, <hi>viz.</hi> Lievtenant-Colonells, Majors, and Captains: and that they cauſe the heritors, propter wodſetters, liferenters and others ſubject in out putting of horſe and foot conform to the Acts of Parliament, put out their proportion of horſe and foot wel armed, the foot, two parts with muſquets, and third part pikes, and all with ſwords, with two Dollors of Levie-money, and twenty dayes proviſion to each ſouldier, and to all officers under a Captain con<g ref="char:EOLhyphen"/>form to the <hi>Scotts</hi> eſtabliſhment, at two part pay horſe and foot: And that for carrying of the neceſ<g ref="char:EOLhyphen"/>ſary proviſion of their forces, They provide a ſufficient baggage-horſe for every Twelve men: And that a ſtrong and able man with ſword and halfe pike be ap<g ref="char:EOLhyphen"/>pointed to attend each two baggage-horſe, who is to have a ſouldiers pay: And that the heretors, liferenters, and others aforeſaid of the ſeverall Shires who are ly<g ref="char:EOLhyphen"/>able to the putting out of men, be Ordained to bring their ſeverall proportions of horſe and foot Armed and provided as aforeſaid, to the place of Randevouz in each Shire, under the paines following, <hi>viz.</hi> Under the paine of 400. marks for each deficient horſman, And under the paine of 100. l. for each deficient foot<g ref="char:EOLhyphen"/>man not brought to the foreſaid Randevouz, which are hereby Ordained to be keept at the dyets following
+<pb n="5" facs="tcp:116439:3"/>
+                  <hi>viz.</hi> All the Shires on this ſide <hi>Tay</hi> upon the 24. of this Month, and theſe upon the South ſide of <hi>Spey</hi> upon the 27. and thoſe upon the North ſide of <hi>Spey</hi> upon the laſt of this Month, and Ordaines the ſaid Colonells and Committees in the ſeverall Shires to have their proportions of Horſe and Foot Armed and provided as aforeſaid, in readineſſe at the place of Rendezvouz, and at the diets <hi>reſpective</hi> before mentioned, to march according to ſuch orders as ſhall then be ſent to them, under the penalties aforeſaid: And for the more ſpee<g ref="char:EOLhyphen"/>dy and effectuall raiſing of the ſaid Foot and Horſe, the Eſtates of Parliament gives power and command to the Colonells, with aſſiſtance of ſuch of the Com<g ref="char:EOLhyphen"/>mittee of the Shire as will joyne with them; and are hereby commanded to be aſſiſting to them, to ſeize and diſtraine the goods of any Heretories and others aforeſaid, who are deficient in out putting either of their Horſe or foor, <hi>viz.</hi> For every horſeman wanting at the day of Randevouz the ſum of 400. Marks from every Heretor and others aforeſeid, who are lyable to put him out. And for every Footman wanting, the ſum of 100. l. And further the ſaids Eſtates declares, that the Heretors and others aforeſaid failing in putting out of their proportions ſhall be eſteemed as enemies to, and hinderers of the publick ſervice of the Kingdome, in perſuance of the ends of the Covenant, and notwith<g ref="char:EOLhyphen"/>ſtanding ſome perſons may be hereby overburdened in reſpect of the means of their Rents, and multitude of Tenants, living upon their lands: Yet the Eſtates Ordains the foreſaid Number of men provided as aforeſaid to be put out by them, &amp; in caſe any of them ſinde themſelves thereby prejudiced, and make their
+<pb n="6" facs="tcp:116439:4"/>complaint knowne to the Committee of the Shire, in that caſe the ſaid Eſtates Ordaines the Com<g ref="char:EOLhyphen"/>mittee of the Shire to caſt up the accompt, what the price of the aforeſaid Armes, Levi-money and the price of Baggage horſe will amount to, and ſo to provide for their reliefe, that the burthen may bee equally upon the whole Heretories and others a<g ref="char:EOLhyphen"/>foreſaid according to their Rent, as in the maintenance. And becauſe the ſaid Eſtates having after calculation, found that the number of horſe according to the pro<g ref="char:EOLhyphen"/>portion of the Levie in <hi>Anno</hi> 1644. are to be raiſed, will not exceed 2700. And ſeeing the preſent ſervice will neceſſarily require a greater number of Horſe, and that the Shires of this Kingdome will hardly bee able to raiſe the ſame: Therefore the ſaid eſtates have ordained that each Regiment of horſe ſhall con<g ref="char:EOLhyphen"/>ſiſt of 180. Troopers, to be framed in three Troops, and commanded by a Colonel, Major and Rutemaſter, and the Colonell to have the nomination of all his un<g ref="char:EOLhyphen"/>der Officers; Providing, the Lievtenant or Cornet be appointed with advice of the Committee of the Shire, out of the which the Troop is to be levied: And Ordains the Regiment to be made up in manner fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi> The preſent Rutemaſter to have aſſigned to them locally out of ſome Shire or Shires, the num<g ref="char:EOLhyphen"/>ber of 80. Troopers, according as is ſet down in the Liſt hereunto ſubjoyned, which Troopers the ſaids Rute<g ref="char:EOLhyphen"/>maſters are to receive at the day and place of Rendez<g ref="char:EOLhyphen"/>vozes of the foreſaid Shire or Shires before written; &amp; ſhall give ſufficient ſecurity to leavy upon their owne charges as many Troopers well mounted, and Armed, as with the Troops they preſently have, ſhall make 160
+<pb n="7" facs="tcp:116439:4"/>in the whole; and that they ſhall have the ſaid Troo<g ref="char:EOLhyphen"/>pers ſo to be liſted upon their own charges at the fore<g ref="char:EOLhyphen"/>ſaid day and place of Randezvouz, under the paine of 400. Marks for each deficient Trooper: And for ſuch Noble-men and Gentlemen deſigned Colonells, who have no Troops preſently, the Eſtates Ordaines them to receive the number of 80. Troopers from the Shire aſſigned to them for that purpoſe, as is contained in the foreſaid ſubjoyned Liſt; and to finde ſufficient ſure<g ref="char:EOLhyphen"/>ty for leavying the number of 100. Troopers upon their own charges, and to bring them to a Randezvouz at <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> upon the 10. day of <hi>June</hi> next, under the paine of four hundred Markes for each deficient well mounted and armed Trooper: And in caſe any Co<g ref="char:EOLhyphen"/>lonell ſhall upon his own charges raiſe 60. horſe more to make up the fourth Troope, the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment allowes him to have a Lieut. Colonell; and what further Troopers the Colonel or his Officers ſhall leavy upon their own charges, they ſhall have entertainment therefore as the reſt of the Army; And the Eſtates of Parliament ordains the foreſaid Committees to uſe all diligence for performing the foreſaid duties intruſted to them, as they will teſtifie their affection to Religion, and the peace of the Kingdom, and that they faile not to make report to the Parliament, or the Committee of Eſtates in this Kingdome, within ſix dayes after the dayes of Rendezvouz <hi>reſpective</hi> above written, aſſigned by the Parliament to the Shires <hi>reſpective,</hi> as is afore<g ref="char:EOLhyphen"/>ſaid: And if the Committees of Shires be remiſſe in their meetings, or in putting their Orders in executi<g ref="char:EOLhyphen"/>on, that the Colonells with ſuch of the Committee as are willing to joyn with them, conveen upon all occa<g ref="char:EOLhyphen"/>ſion
+<pb n="8" facs="tcp:116439:5"/>for putting their orders to execution, &amp; for doing every thing that may further the Levies, being alwayes accomptable for their proceedings to the Parliament, or Committee of Eſtates; and if any perſon or perſons of what degree, quality, or condition ſoever, ſhall offer to oppoſe, or obſtruct by violence the reſolutions of the Parliament, or Committees thereof, the ſaid Com<g ref="char:EOLhyphen"/>mittees and Colonells have power to uſe all meanes to compell them, and if need be, to purſue the raiſers of the tumults, and publick oppoſers of the Reſoluti<g ref="char:EOLhyphen"/>ons of the Eſtates in a hoſtile way by the ſtrength of the Shire; and if the Inſurrection or oppoſition come to that height that the Shire where it falls out is not able to ſuppreſſe the ſame, that the Colonels, Commit<g ref="char:EOLhyphen"/>tees, and Commanders of the next adjacent Shires, on all Quarters, joyn for ſuppreſſing thereof as they ſhall receive advertiſement. And further, the ſaid Eſtates upon conſideration of the great abuſes in former Lea<g ref="char:EOLhyphen"/>vies, committed by Officers in taking of money from the Heritors, and others aforeſaid, who are liable in putting out of Men, Horſe, or Foot in place of their ſaid men; Declares, that whatſoever Officer ſhall be found to have done ſo, ſhall not only be caſhiered from his charge, but alſo branded with a marke of infamy and diſgrace: And that the ſaid whole Forces may be kept in the better order and diſcipline, the ſaid Eſtates Ordaines all Officers conſtantly to attend their ſaid charges, and that none of them upon any pretext what<g ref="char:EOLhyphen"/>ſoever be abſent the ſpace of one moneth, with cer<g ref="char:EOLhyphen"/>tification to the contraveeners hereof, that their places ſhall be declared vacant, and another eſtabliſhed in their charge. And the Eſtates of Parliament declares,
+<pb n="9" facs="tcp:116439:5"/>that whatſoever Officer or Souldier ſhall be found guilty of taking at their own hand, horſe, or any other guides from the Subjects of this Kindome, they ſhall die for it without mercy. And for the better regulating of the putting forth Horſe and Foote of ſuch as will not fall to put forth an whole Horſe or Footeman: It is declared, that the greateſt Rent of theſe to be joyn<g ref="char:EOLhyphen"/>ed for making up an horſe, ſhall provide the horſe, and the reſt that joyneth to contribute, according to 160 l. for ilk Horſman; and who have the manieſt men to to provide the Footman, and the remanent that joyn<g ref="char:EOLhyphen"/>eth to contribute, with him according to 40. l. for ilk Footman for their outreik of Arms, and whole furni<g ref="char:EOLhyphen"/>ture belonging to them with their twenty daies pro<g ref="char:EOLhyphen"/>viſion: And where the Rent, or number of men are e<g ref="char:EOLhyphen"/>quall, to caſt lots.</p>
+            </div>
+            <div n="horse and foot" type="list">
+               <head>Follows the Liſt of the Horſe and Foot, to be put out by the ſeveral Shires and Burghs of the Kingdome, with the names of the Colonels of the Foot.</head>
+               <p>OVt of the Sheriffdomes of <hi>Roxburgh</hi> and <hi>Selkirk</hi> 2000. Foote, and 200. Horſe: Colonels for the Foot, the Earl of <hi>Roxburgh,</hi> the Earl of <hi>Bucleuche,</hi> or his brother the Earl of <hi>Louthian,</hi> or in caſe of his refu<g ref="char:EOLhyphen"/>ſall to accept the Sheriff of <hi>Tevitduil,</hi> or <hi>Richard Dow<g ref="char:EOLhyphen"/>glas</hi> his ſon.</p>
+               <p>Out of the Sheriffdome of <hi>Berwick</hi> 1200. Foot and
+<pb n="10" facs="tcp:116439:6"/>100. Horſe, Colonel for the Foot, the Earl of <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Hadingtoun</hi> 1200. Foot &amp; 100. Horſe, Colonels for the Foot, the Lord <hi>Zeſter</hi> and Laird of <hi>Wanchtoun,</hi> and in caſe of <hi>Wanchtouns</hi> re<g ref="char:EOLhyphen"/>fuſall, the Lord <hi>Zeſter</hi> to be Colonel for the whole.</p>
+               <p>
+                  <hi>Item,</hi> out of the Sheriffdom of <hi>Edingburgh</hi> to Land 1200. Foot, and 100. Horſe, Colonels to the Foot, the Lord <hi>Balmarino,</hi> or in caſe he accept not, the Laird of <hi>Collingtoun</hi> and the Lord <hi>Cranſto<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Linlithgow</hi> 500. Foot, and 60. Horſe; and out of the Sheriffdom of <hi>Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bles</hi> 400. Foot, and 40. Horſe<g ref="char:punc">▪</g> Colonell for the Foot of their two Shires, the Lord <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rgany.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Dumfreis</hi> 1200. Foot and 120. Horſe, Colonels for the Foot, the Earle of <hi>Dumfreis,</hi> and the Laird of <hi>Kethead.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Wigtoun</hi> 1200. Foot, and 120. Horſe, Colonels for the Foot, the Lord <hi>Gairleis,</hi> and the young Laird of Lag.</p>
+               <p>Out of the Sheriffdoms of <hi>Air</hi> and <hi>R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>frew,</hi> 2000. Foot, and 240. Horſe, Colonels for the Foot, the Earl of <hi>Glencairn,</hi> the Lord <hi>Roſs,</hi> and the Lord <hi>Cochrane.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Lanireck</hi> 1500. Foot and 200. horſe, Colonell for the Foot, the Lord Duke of <hi>Hammiltoun.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Sterling</hi> and <hi>Clakman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> 1000. Foot, and 120. Horſe, and the Town of <hi>Stirling</hi> exemed (in regard of the peſtilence) from the one half of their proportion, extending to <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Colonell for the Foot, the Earl of <hi>Callender.</hi>
+               </p>
+               <p>Out of the Sheriffdoms of <hi>Fyffe</hi> and <hi>Ki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roſher</hi> 1500. Foot &amp; 240. horſe: Colonels for the Foot, the Earl of
+<pb n="11" facs="tcp:116439:6"/>
+                  <hi>Kellie</hi> and the Lord <hi>Elcho,</hi> and the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, remits to any Committ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Shire, which is to be equall of the Gentry &amp; Burrows of the Shire, to proportion the eaſe granted by the Parliament to to this Shire.</p>
+               <p>
+                  <hi>Item,</hi> For the Sheriffdom of <hi>Perth</hi> 2400. Foot, and 240. Horſe, the Town of <hi>Perth</hi> and <hi>Culros</hi> to be tane in conſideration by the Committee of the Shire, in<g ref="char:EOLhyphen"/>regard of the former vaſtations by the Plague, and all other places in the Shire, which are now waſte by the ſame or by the War; And the Eſtates declares, that what the Committee ſhall deduce in reſpect of waſted lands, ſhall be deduced to the Shire: And alſo declares, that the heritors of theſe waſted lands ſhall onely be lyable to put out their proportion accord<g ref="char:EOLhyphen"/>ing to the fourth man they have preſently. The Co<g ref="char:EOLhyphen"/>lonels of the Foot, the Earle of <hi>Atholl,</hi> the Earle of <hi>Tullibardine</hi> and Sir <hi>Iames Drummond</hi> younger of <hi>Machanie.</hi>
+               </p>
+               <p>Out of the Sheriffdome of <hi>Forfar,</hi> 1500. Foot, and 140. Horſe, the Town of <hi>Breichen</hi> excimed of 30. men of their former Levie, Colonell for the Foot, the Lord <hi>Carnegie.</hi>
+               </p>
+               <p>Out of the Sheriffdome of <hi>Kincardine,</hi> and the Earl of <hi>Merſchellis</hi> part of <hi>Aberdeen</hi> 1200. Foot, and 100. Horſe, Colonels for the Foot, <hi>George Keith,</hi> brother to the Earle of <hi>Marſchall</hi> and Colonell <hi>Harie Mauld.</hi>
+               </p>
+               <p>Out of the reſt of the Sheriffdome of <hi>Aberdeen,</hi> and out of the Sheriffdome of <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff,</hi> 1600. Foot, and 240. Horſe, the Town of <hi>Aberdeen</hi> to be exeimed from 60. of their proportion in regard of their vaſtation by the Peſtilence. The Town of <hi>Culane</hi> of 6<g ref="char:punc">▪</g> and the
+<pb n="12" facs="tcp:116439:7"/>Town of <hi>Bamff</hi> of 7. Colonells for the Foot, The Lord <hi>Bamff</hi> or his ſon, and the Maſter of <hi>Forbes:</hi> and the Eſtates of Parliament remits to the Committee of 24. to divide the proportion of Horſe and Foot wh<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <hi>Kilcardine, Aberdeen</hi> and <hi>Bamff</hi> ſhall put out.</p>
+               <p>Out of the Sheriffdom of <hi>Elgin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rne,</hi> and that part of <hi>Innernes</hi> on this ſide <hi>Neſs,</hi> 1500. Foot, and 120 Horſe. The Town of <hi>Nairne</hi> to be exeemed of the two parts of three of their former proportion. The Town of <hi>Forres</hi> to be exeemed of 6 then, and the Town of <hi>Innernes</hi> and <hi>Elg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne</hi> to put out their fourth man upon the Oaths of the Magiſtrates and Mini<g ref="char:EOLhyphen"/>ſters: Colonell for the Foot, the Earl of <hi>Murray.</hi> And the Eſtates of Parliament recommends to the Com<g ref="char:EOLhyphen"/>mittee of Warre of the Shire to have conſideration of the vaſtation of the Sheriffdom of <hi>Nairne,</hi> and the like conſideration for the Town of <hi>Innernes,</hi> in reſpect of its great and extraordinary condition.</p>
+               <p>Out of the Earle of <hi>Seaforth</hi> and Lord <hi>L<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>is</hi> divi<g ref="char:EOLhyphen"/>ſion of <hi>Innernes.</hi> 1000. Foot, and 120. Horſe, Colo<g ref="char:EOLhyphen"/>nell for the Foot the Barron of <hi>Kilrao<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> And the Eſtates of Parliament remits to the Committee of 24. to make an juſt diviſion betwixt the Earle of <hi>Seaforth</hi> and Lord <hi>L<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> diviſion foreſaid.</p>
+               <p>Out of the Earl of <hi>Seaforths</hi> part of <hi>Innernes, Su<g ref="char:EOLhyphen"/>therland</hi> and <hi>C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hnes</hi> 1600. Foot, and 120. Horſe, Colonells for the Foot, the Earl of <hi>Sutherland,</hi> or in<g ref="char:EOLhyphen"/>caſe of his refuſall, the Laird of <hi>Duffus,</hi> and the Laird of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>kill,</hi> and in caſe both <hi>Sutherland</hi> and <hi>Duffus</hi> re<g ref="char:EOLhyphen"/>fuſe, the Laird of <hi>L<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>r,</hi> ſo in this caſe the Lairds of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> and <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> to be Colonells, and the Eſtates remits to the Committee of 24 to cl<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> this diviſion.</p>
+               <pb n="13" facs="tcp:116439:7"/>
+               <p>Out of the Marques of <hi>Argyles</hi> diviſion of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>es</hi> and <hi>Badzenoche,</hi> 1000. Foot, Colonell, the Laird of <hi>Macheleoud</hi> or his brother <hi>Rorie.</hi>
+               </p>
+               <p>Out of the Sheriffdom of <hi>Bute,</hi> 50. Foot.</p>
+               <p>Out of the Sheriffdom of <hi>Dumbartan</hi> in place of their Foot 40. Horſe, and this caſe of their former Leavies to be given to theſe Pariſhes who has had greateſt loſt by the Enemy. And in particular, the Barrony and Parrochine of <hi>Lenzie,</hi> and each Horſman to be rated at 160. l. and the Town of <hi>Dumbartan</hi> to be exeemed from Ten of their old proportion.</p>
+               <p>The Sheriffdom of <hi>Argyle</hi> exeemed.</p>
+               <p>Out of the Sheriffdom of <hi>Orkney</hi> 1000. Foote, Co<g ref="char:EOLhyphen"/>lonell, the Earl of <hi>Morton</hi> or any that he ſhall appoint who is capable thereof, according to the Laws of this Kingdom.</p>
+            </div>
+            <div n="colonels of horse" type="list">
+               <head>Follows the Liſt of the Colonels of Horſe, with their proportions of Horſe out of the ſeverall Shires.</head>
+               <p>The Earle of <hi>Arroll,</hi> out of the Sherifdom of <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> 80. Horſe.</p>
+               <p>The Earl of <hi>Merſchell,</hi> out of the Sherifdom of <hi>Kin<g ref="char:EOLhyphen"/>cardine.</hi> 54. horſe, and part of <hi>Aberdeen</hi> 26. Horſe, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 80. Horſe.</p>
+               <p>The Earle of <hi>Buchane,</hi> out of the Sheriffdome of <hi>Forfar,</hi> 70. Horſe, and out of the Sheriffdom of <hi>Bamff,</hi> 10. <hi>inde.</hi> 80. Horſe.</p>
+               <p>The Earle of <hi>Dumſerling,</hi> out of the Sheriffdome of <hi>Fyfe.</hi> 80. Horſe.</p>
+               <pb n="14" facs="tcp:116439:8"/>
+               <p>The Earl of <hi>Landerdail,</hi> out of the Sheriffdom of of <hi>Hadintan,</hi> 80. Horſe.</p>
+               <p>The Earl <hi>Traquair,</hi> out of the Sheriffdom of <hi>Peebles.</hi> 40. Horſe, and out of the Sheriffdom of <hi>Drumfreis.</hi> 40. Horſe. <hi>inde</hi> 80. Horſe.</p>
+               <p>The Earl of <hi>Dalhouſsie</hi> or his ſon, out of the Sheriff<g ref="char:EOLhyphen"/>dom of <hi>Edinburgh.</hi> 80. Horſe.</p>
+               <p>The Earl of <hi>Lanerek,</hi> out of the Sheriffdoom of <hi>La<g ref="char:EOLhyphen"/>nerk,</hi> 80. Horſe.</p>
+               <p>The Vicount of <hi>Kenmure;</hi> out of the Sheriffdom of of <hi>Wigtonne</hi> and <hi>Kirkendbright,</hi> 80. Horſe.</p>
+               <p>The Vicount of <hi>Dudhope,</hi> out of the Sheriffdom of <hi>Forfar</hi> 70. Horſe, and out of the Sheriffdom of <hi>Bamff,</hi> 10. Horſe, <hi>inde</hi> 80. Horſe.</p>
+               <p>The Vicount of <hi>Fendraught,</hi> out of the reſt of the Sheriffdoms of <hi>Aberdeen</hi> and <hi>Bamff,</hi> not formerly aſ<g ref="char:EOLhyphen"/>ſigned 80. Horſe.</p>
+               <p>The Lord <hi>Sinclare,</hi> out of the Sheriffdom of <hi>Fyfe</hi> 80. Horſe.</p>
+               <p>The Lord <hi>Spynie,</hi> out of the Sheriffdoms of <hi>Stirling</hi> and <hi>Clackmannan,</hi> 80 Horſe.</p>
+               <p>The Lord <hi>Balcarras,</hi> out of the Sheriffdom of <hi>Fyfe</hi> 80 Horſe.</p>
+               <p>The Lord <hi>Mountg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mery,</hi> out of the Sheriffdoms of <hi>Air</hi> and <hi>Renfrew</hi> 80 Horſe.</p>
+               <p>The Lord <hi>Levinstonne,</hi> out of the Sheriffdom of <hi>Edinburgh</hi> 80. horſe, and out of the Sheriffdom of <hi>Lin<g ref="char:EOLhyphen"/>lithgow</hi> 60. horſe, <hi>inde</hi> 80. horſe.</p>
+               <p>Lievetenant Generall <hi>David Leſly</hi> out of the She<g ref="char:EOLhyphen"/>riffedom of <hi>Pearth,</hi> 80. horſe.</p>
+               <p>Generall Major <hi>Midletonne,</hi> out of the Sheriffdoms of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> 80. horſe.</p>
+               <pb n="15" facs="tcp:116439:8"/>
+               <p>Colonell Sir <hi>Iohn Broune,</hi> out of the Sheriffdomes of <hi>Roxburgh</hi> and <hi>Selkirk</hi> 40. Horſe, out of the Sheriff<g ref="char:EOLhyphen"/>dom of <hi>Berwick</hi> 20. Horſe, and out of the Sheriffdom of <hi>Hadingtoune</hi> 20. Horſe, <hi>inde</hi> 80. Horſe.</p>
+               <p>Colonell <hi>Robert Montgumrie,</hi> out of the Sheriffdoms of <hi>Air</hi> and <hi>Renfrew.</hi> 80. Horſe.</p>
+               <p>Colonell <hi>Hary Barcley,</hi> out of a part of <hi>Aberdeen</hi> Shire, and <hi>Bamff</hi> 80. Horſe.</p>
+               <p>Colonell <hi>James Merſer</hi> of <hi>Aldie,</hi> out of the Sheriff<g ref="char:EOLhyphen"/>dom of <hi>Pearth</hi> 80. Horſe.</p>
+               <p>Colonell <hi>William Lockhart</hi> of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> out of the Sheriffdom of <hi>Lanerk</hi> 80. Horſe.</p>
+               <p>Colonel Sr. <hi>William Keith</hi> of <hi>Ludquhairne,</hi> out of the Sheriffdoms of <hi>Stirling</hi> and <hi>Clakmannan</hi> 40. Horſe, out of the Sheriffdom of <hi>Lanerk</hi> 20. Horſe, and out of the Sheriffdom of <hi>Dunbartan</hi> 20. Horſe, <hi>inde</hi> 80. horſe.</p>
+               <p>Colonell <hi>Alex. Stranchane</hi> out of the Sheriffdom of <hi>Pearth</hi> 80. horſe.</p>
+               <p>Colonell <hi>Gilbert Ker,</hi> out of the Sheriffdoms of <hi>Roxburgh</hi> and <hi>Selkirk</hi> 80. Horſe.</p>
+               <p>Col. Sir <hi>Mungo Murray,</hi> out of the Sheriffdom of Dumfreis 80. Horſe.</p>
+               <p>Col. <hi>David Barcley,</hi> out of <hi>Innernes</hi> and <hi>Murray</hi> 80. Horſe.</p>
+               <p>Col. <hi>William Urry,</hi> out of the Sheriffdom of <hi>Ken<g ref="char:EOLhyphen"/>frew</hi> 40. Horſe; out of the Sheriffdom of <hi>Dumbartan</hi> 20. horſe, and to receive 4000, Marks money, <hi>inde</hi> 80. Horſe.</p>
+               <p>Col. <hi>Hugh Fraſar</hi> out of the reſt of the Sheriffdom of <hi>Innernes</hi> 80. horſe.</p>
+               <p>Col. <hi>Innes</hi> younger of that ilk, out of the Sheriffdoms of <hi>Elgine</hi> and <hi>Nairne</hi> 40. Horſe, and the
+<pb n="16" facs="tcp:116439:9"/>reſt of <hi>Innernes</hi> &amp; <hi>Sutherland</hi> 40 Horſe <hi>inde</hi> 80. Horſe</p>
+               <p>Col. <hi>Innes</hi> Quartermaſter, out of the She<g ref="char:EOLhyphen"/>riffdoms of <hi>Elgine, Nairn,</hi> and that part of <hi>Innernes</hi> one this ſide <hi>Neſſe,</hi> 80. horſe.</p>
+               <p>Col. <hi>John Home,</hi> out of the Sheriffdom of <hi>Berwick</hi> 80. horſe.</p>
+               <p>Col. <hi>James Macdowell</hi> of Garthland, out of the Sheriffdom of <hi>Wigtoun</hi> 40. horſe, and out of the next adjacent of <hi>Air</hi> to <hi>Wigtoun</hi> 40 horſe, <hi>inde</hi> 80. horſe.</p>
+            </div>
+            <div type="ordinance">
+               <p>And the Eſtates of Parliament Ordain the Cleark of Regiſter to cauſe Print the foreſaid Act abovemen<g ref="char:EOLhyphen"/>tioned, with the Liſts reſpective abovewritten, thereto ſubjoyned.</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>Alex. Gibſon,</hi> Cler. Regiſt.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
